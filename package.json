@@ -1,0 +1,32 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "This content shows the RestAPI with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlisonBernardino/RestAPISample-NodeJS-.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api",
+    "js",
+    "javascript",
+    "coding",
+    "it",
+    "frontend"
+  ],
+  "author": "Alison Francisco Bernardino - BCW - Bernardino Coding Works",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlisonBernardino/RestAPISample-NodeJS-/issues"
+  },
+  "homepage": "https://github.com/AlisonBernardino/RestAPISample-NodeJS-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
